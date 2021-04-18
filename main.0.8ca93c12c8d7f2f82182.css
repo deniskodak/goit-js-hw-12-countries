@@ -1,0 +1,1 @@
+.country-list{width:700px;margin-right:auto;list-style:none}.counrty-name{text-align:center;font-size:36px}.country-cointainer{display:flex}.country-info{list-style:none;margin-right:50px}.country-info__item{font-weight:700}.country-list__item:not(:last-child){margin-bottom:30px}.country-info__span{font-weight:400}
